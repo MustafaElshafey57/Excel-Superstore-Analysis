@@ -33,4 +33,4 @@ The goal is to clean raw data, model it, and build an interactive dashboard that
 
 ## 📷 Dashboard Preview   
 ```markdown
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Superstore.PNG)
