@@ -31,6 +31,7 @@ The goal is to clean raw data, model it, and build an interactive dashboard that
 
 ---
 
-## 📷 Dashboard Preview   
-```markdown
+## 📷 Dashboard Preview  
+
 ![Dashboard Screenshot](Superstore.PNG)
+
